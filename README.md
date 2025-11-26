@@ -1,6 +1,6 @@
 # Hi, I'm Vijay Sinha! 👋
 
-**Web Designer | Developer | Digital Marketer**  
+**Web Developer | Designer | Digital Marketer**  
 📍 Bhilai, India
 
 ---

@@ -13,10 +13,10 @@ I'm a passionate software developer focused on building efficient, user-friendly
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript,
 - **Frameworks:** Flask, React, Vite.js
 - **Tools/Other:** Selenium, Git, SQLAlchemy, JSON
-
+- **Frontend:** HTML, CSS, Tailwind, GSAP
 ---
 
 ### 🌟 Featured Projects

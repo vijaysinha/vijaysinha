@@ -1,12 +1,12 @@
 # Vijay Sinha
 **Software Engineer | Full-Stack & Systems Architecture**
 
-I build resilient backend systems, optimize state management, and design automated workflows. My current focus is on bridging robust full-stack development with Linux system administration and deployment pipelines.
+Current Engineering Focus: Transitioning into DevOps by mastering bare-metal Linux administration and command-line environments.
 
 ## 🛠️ Technical Arsenal
 * **Backend:** Node.js (Core Event Loop, Asynchronous Architecture), Python, Flask
 * **Frontend:** React (Advanced State Management, Context, Reducers), Tailwind
-* **Infrastructure & Data:** Linux Administration, MongoDB, SQLAlchemy, Git
+* **Infrastructure & Data:** MongoDB, SQLAlchemy, Git
 * **Automation:** Selenium, Scripting
 
 ## 🎯 Current Engineering Focus

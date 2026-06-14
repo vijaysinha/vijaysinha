@@ -1,49 +1,16 @@
-# 👋 Hi, I'm Vijay Sinha  
+# Vijay Sinha
+**Software Engineer | Full-Stack & Systems Architecture**
 
-**Web Developer | Designer | Digital Marketer**  
-📍 Bhilai, India  
+I build resilient backend systems, optimize state management, and design automated workflows. My current focus is on bridging robust full-stack development with Linux system administration and deployment pipelines.
 
----
+## 🛠️ Technical Arsenal
+* **Backend:** Node.js (Core Event Loop, Asynchronous Architecture), Python, Flask
+* **Frontend:** React (Advanced State Management, Context, Reducers), Tailwind
+* **Infrastructure & Data:** Linux Administration, MongoDB, SQLAlchemy, Git
+* **Automation:** Selenium, Scripting
 
-## 🚀 About Me  
-I'm a passionate software developer focused on building efficient, user-friendly web solutions.  
-I love combining **design and development expertise** to turn ideas into reality — from automation scripts to beautiful UI and engaging websites.  
-
----
-
-## 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript  
-- **Frameworks:** Flask, React 
-- **Frontend:** HTML, CSS, Tailwind, GSAP  
-- **Tools & Others:** Selenium, Git, SQLAlchemy, MongoDB  
-- **Backend:** NodeJS
+## 🎯 Current Engineering Focus
+Architecting scalable data synchronization models and mastering bare-metal Linux environments to build custom DevOps pipelines.
 
 ---
-
-## 🌟 Featured Projects  
-- **[TraceShopOpeningDays](https://github.com/vijaysinha/TraceShopOpeningDays)**  
-  Static web page displaying shop opening history, powered by JSON.  
-
-- **[Tenzies Game (React + Vite.js)](https://github.com/vijaysinha/TenziesGameReactVitejs)**  
-  A fun dice game built with React and Vite.js.  
-
-- **[Auto-Fill Verifier Form (Smart Mode)](https://github.com/vijaysinha/Auto-Fill-Verifier-Form-Smart-Mode)**  
-  Automates web forms using Selenium and XPath.  
-
-- **[shopOpeningDate.github.io](https://github.com/vijaysinha/shopOpeningDate.github.io)**  
-  A simple static site for learning and experimenting.  
-
----
-
-## 📈 GitHub Stats  
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaysinha&show_icons=true&theme=radical)
-
----
-
-## 📬 Let's Connect  
-💌 Email: **vijaysinha60@gmail.com**  
-🤝 Open to collaboration, ideas, or just a coding chat!  
-
----
-
-✨ *“Let’s build the future — one commit at a time.”*
+📬 **Contact:** vijaysinha60@gmail.com
